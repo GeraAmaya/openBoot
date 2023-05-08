@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es ejercicios para entrega",
+  "main": "index.js",
+  "scripts": {
+   "saludar": "node Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo" 
+  },
+  "keywords": [
+    "hola_mundo",
+    "first",
+    "project"
+  ],
+  "author": "Gera Amaya",
+  "license": "ISC"
+}
